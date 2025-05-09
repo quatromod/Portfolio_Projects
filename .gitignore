@@ -16,3 +16,6 @@ Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
 Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
 *.db
 .ipynb_checkpoints/
+*/data/raw/*.txt
+*/data/processed/*.db
+*.ipynb_checkpoints/
