@@ -1,0 +1,18 @@
+
+# Ignore FAERS raw ASCII data
+Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
+
+# Ignore processed database files (optional)
+Portfolio_Projects/Rx_Risk_Radar/data/processed/*.db
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
+.ipynb_checkpoints/
+Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
+*.db
+.ipynb_checkpoints/
+Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
+*.db
+.ipynb_checkpoints/
