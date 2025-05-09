@@ -1,25 +1,13 @@
+# Ignore raw FAERS ASCII data files in any project
+*/data/raw/*.txt
 
-# Ignore FAERS raw ASCII data
-Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
+# Ignore processed database files in any project
+*/data/processed/*.db
 
-# Ignore processed database files (optional)
-Portfolio_Projects/Rx_Risk_Radar/data/processed/*.db
-
-# Ignore temporary files
+# Ignore Jupyter notebook checkpoints and system files
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.db
 *.log
 *.tmp
 .DS_Store
-.ipynb_checkpoints/
-Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
-*.db
-.ipynb_checkpoints/
-Portfolio_Projects/Rx_Risk_Radar/data/raw/*.txt
-*.db
-.ipynb_checkpoints/
-*/data/raw/*.txt
-*/data/processed/*.db
-*.ipynb_checkpoints/
-*/data/raw/*.txt
-*/data/raw/*.txt
-*/data/processed/*.db
-*.ipynb_checkpoints/
