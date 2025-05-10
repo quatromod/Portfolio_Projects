@@ -3,6 +3,7 @@
 
 # Ignore processed database files in any project
 */data/processed/*.db
+*/data/processed/*.csv
 
 # Ignore Jupyter notebook checkpoints and system files
 .ipynb_checkpoints/
