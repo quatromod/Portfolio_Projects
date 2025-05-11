@@ -1,5 +1,5 @@
 import pandas as pd
-import sqlite3
+import sqlite3          # built in Pythin library
 
 # Paths
 csv_path = "/Users/a.avira/Pet/Portfolio_Projects/Rx_Risk_Radar/data/processed/faers_joined_20Q4.csv"
